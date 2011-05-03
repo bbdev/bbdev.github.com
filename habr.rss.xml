@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Хабрахабр: </title>
+        <link>http://habrahabr.ru/rss/</link>
+        <description><![CDATA[]]></description>
+        <language>ru</language>
+        <managingEditor>editor@habrahabr.ru</managingEditor>
+        <generator>habrahabr.ru</generator>
+        <pubDate>Tue, 03 May 2011 11:34:45 GMT</pubDate>
+        <lastBuildDate/>
+        <image>
+            <link>http://habrahabr.ru/</link>
+            <url>http://habrahabr.ru/i/logo.gif</url>
+            <title>Хабрахабр</title>
+        </image>
+        <item>
+            <title><![CDATA[Интернет / [Ссылка] Подробности в истории закрытия и возобновления работы Pornolab.net]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/internet/118571/</guid>
+            <link>http://habrahabr.ru/blogs/internet/118571/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; &amp;gt;&amp;gt; &amp;laquo;Это — единственная разница в подходах: Яндекс зарабатывает на порнографии, ВКонтакте — теряет деньги.&amp;raquo;&lt;/p&gt; 
+  &lt;p&gt;Trololo. Такими темпами ВК скоро начнет просить денег, основываясь на том, что он является самым большим порнохранилищем рунета и это несет ему большие убытки. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 06:47:57 GMT</pubDate>
+            <author>Jeditobe</author>
+            <category>pornolab</category>
+            <category>porn</category>
+            <category>закрытие</category>
+            <category>бизнес</category>
+        </item>
+        <item>
+            <title><![CDATA[Facebook / Красная книга]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/facebook/118584/</guid>
+            <link>http://habrahabr.ru/blogs/facebook/118584/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://www.wired.com/images_blogs/epicenter/2011/05/zuck_mao.jpg" alt="image" /&gt; 
+  &lt;p&gt;Наверняка многие из вас слышали о планах Facebook войти на рынок социальных сетей Китая, заключив партнерское соглашение с местным поисковиком — Baidu. Потенциально, развитие этих событий может быть очень интересно, так как совсем недавно мы наблюдали фиаско Google, так и не справившейся с давлением со стороны цензоров и правительства, и в итоге закрывшей &amp;laquo;континентальный&amp;raquo; бизнес в коммунистической стране.&lt;/p&gt; 
+  &lt;p&gt;Во многом, Google и Facebook очень похожи: обе фокусируются на инжиниринге, интеграции и интернет-ценностях (пусть и в своем понимании этих ценностей), но не стоит забывать о том, что это две разные компании, и их попытки в Китае, скорее всего, будут отличны.&lt;/p&gt; 
+  &lt;p&gt;А вот те препятствия, которые придется скоро преодолевать Facebook'у, нисколько не изменились с того момента, когда их проходил Google. Последний, кстати, после встречи с этими проблемами целиком пересмотрел свою корпоративную политику за пределами США.&lt;/p&gt; 
+  &lt;p&gt;Цукербергу и его коллегам, определенно, придется очень хорошенько думать над каждым шагом, прежде чем сделать его. И области, в которых эти решения нужно принимать, просто-напросто не существуют в том же виде за пределами Китая.&lt;br /&gt;&lt;a name="habracut"&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt; 
+  &lt;h4&gt;Цензура&lt;/h4&gt; 
+  &lt;p&gt;Для того чтобы вести свой бизнес в Китае, Google пришлось пойти на чудовищный компромисс: согласиться на фильтрацию результатов поиска, согласно требованиям коммунистического правительства, скрывая важную информацию от пользователей.&lt;/p&gt; 
+  &lt;p&gt;Facebook'у придется пойти на немного другой копромисс: создать инструменты предотвращения распространения той информации, которая может &amp;laquo;угрожать&amp;raquo; авторитетам и властным лицам страны.&lt;/p&gt; 
+  &lt;p&gt;Вряд ли это повлияет на основную функцию Facebook, так как она более чем тривиальна. Интересно лишь, как будут расставлены рычаги управления.&lt;/p&gt; 
+  &lt;p&gt;Будет ли такой контент удаляться на этапе когда им делиться конкретный пользователь, или лишь по требованию будут удаляться страницы и их содержимое — пока неизвестно, и здесь слово за ком.партией: есть ли у нее ресурсы для того чтобы осуществлять мониторинг столь огромной сети, наряду с уже существующими методиками контроля, или они отдадут эту функцию Facebook.&lt;/p&gt; 
+  &lt;h4&gt;Приватность&lt;/h4&gt; 
+  &lt;p&gt;Один из наиболее грустных эпизодов, связанный с Китаем и американскими компаниями, случился с Yahoo, когда она решила предоставить правительству личные данные диссидента, остававшегося анонимным. Он получил 10 лет, и эта рана на репутации Yahoo уже вряд ли заживет.&lt;/p&gt; 
+  &lt;p&gt;Вопрос, интересующий нас: что произойдет с пользователем Facebook'а, если он вдруг попадет в немилость правящей партии? Не означает ли случаем, что партнерство с Baidu превратит решение подобных проблем в отсутствие какого-либо решения, когда информация будет молча сливаться правительственным каналам?&lt;/p&gt; 
+  &lt;p&gt;Так же неясно, каким образом будут регулироваться отношение в случае, если проблема возникла между китайским пользователем, и, скажем, американским. Не получится ли, что Baidu (имея доступ к информации Facebook) получит в свое распоряжение информацию о всех остальных пользователей социальной сети?&lt;/p&gt; 
+  &lt;p&gt;В любом другом случае, китайские пользователи Facebook будут отделены стеной от всех остальных пользователей. Устроит ли это совет директоров компании — неизвестно.&lt;/p&gt; 
+  &lt;h4&gt;Партнерство&lt;/h4&gt; 
+  &lt;p&gt;В ходе разговора с CEO Baidu Робином Ли о цензуре, он отметил, что это не политическая проблема, а скорее технические сложности, которые замедляют развитие компании.&lt;/p&gt; 
+  &lt;p&gt;Другими словами — Baidu совершенно спокойно относится к вопросам, кхм, свободы слова, не признавая ее даже на техническом уровне. Будет ли Facebook'у удобно в такой ситуации?&lt;/p&gt; 
+  &lt;p&gt;Кроме этого, Baidu известна как компания, не стесняющаяся нарушать копирайт-соглашения и лицензии, а у Facebook только сейчас начинают появляться партнеры в виде крупных Голливудских студий, и музыкальных лейблов. Что из этого последует — опять же, неясно. Вряд ли американцев устроит то, что в Китае получают бесплатно то, за что платит весь остальной мир.&lt;/p&gt; 
+  &lt;h4&gt;Имидж&lt;/h4&gt; 
+  &lt;p&gt;Значение Facebook'а в последних событиях на Среднем Востоке поставило Цукерберга и его компанию в очень забавную ситуацию. Совет директоров социальной сети, да и вообще люди, работающие там, никогда не предполагали что сервис станет точкой старта различных оппозиционеров — это первый прецедент. В Facebook говорят, что: &amp;laquo;Это один из методов использования мощного инструмента&amp;raquo;.&lt;/p&gt; 
+  &lt;p&gt;Определенно, такая слава делает честь компании. И даже кажется, что в Facebook'е рады такому повороту событий.&lt;/p&gt; 
+  &lt;p&gt;Но что случится в том случае, если китайские активисты, например, создадут страницу Жасминовой Революции, а официальные власти попросят удалить ее, стереть все упоминания, и рассказать об организаторах? Напомню — таких людей ждет смертная казнь. Или институциональная цензура настроена так, что подобные движения вообще не могут появится? Спросите у Google.&lt;/p&gt; 
+  &lt;p&gt;В любом случае, пойдет Facebook в Китай или нет, ему уже сейчас приходится тратить огромные ресурсы на переговоры с различными регуляторами и лоббинг. Благо, социальная сеть в этом уже поднаторела.&lt;/p&gt; 
+  &lt;p&gt;Но если этот прыжок будет сделан, можно посоветовать только одно — ступать аккуратно, очень аккуратно. Последний раз, когда компания увидев &amp;laquo;новый рынок&amp;raquo; рванула туда сломя голову, она очутилась в настоящем аду, наполненном не только красным цветом, но и болью поражения.&lt;/p&gt; 
+  &lt;p&gt;via &lt;a href="http://www.wired.com/epicenter/2011/05/the-little-red-facebook/"&gt;Wired&lt;/a&gt; &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 10:01:53 GMT</pubDate>
+            <author>Shapelez</author>
+            <category>facebook</category>
+            <category>baidu</category>
+            <category>китай</category>
+        </item>
+        <item>
+            <title><![CDATA[Социальные сети / [Ссылка] Дуров обвиняет Яндекс в монетизации порнографии и призывает не искать порно ВКонтакте]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/social_networks/118587/</guid>
+            <link>http://habrahabr.ru/blogs/social_networks/118587/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Уже приводил пример на роеме, придется и здесь:&lt;/p&gt; 
+  &lt;p&gt;Берем поиск по слову &amp;laquo;секс&amp;raquo; в Яндексе, видим кроме 8 из 10 порносайтов три рекламных объявления. Фиг с ним, что рекламируются отнюдь не энциклопедические статьи, но факт заработка на контекстной к порновыдаче рекламе глупо оспаривать.&lt;/p&gt; 
+  &lt;p&gt;Можно конечно говорить, что это &amp;laquo;не порно запрос&amp;raquo; — но как еще назвать запрос, на который 80% результатов — порно, а ищут по нему в 95% случаев порно. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 10:43:36 GMT</pubDate>
+            <author>megaweber</author>
+            <category>вконтакте</category>
+            <category>yandex</category>
+        </item>
+        <item>
+            <title><![CDATA[Контекстная реклама / Нормализация запросов в Директе или немного о подводных камнях в подборе слов]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/context/118580/</guid>
+            <link>http://habrahabr.ru/blogs/context/118580/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://habrastorage.org/storage/751093a3/2e9533f4/815cee41/735c65ef.jpg" /&gt; 
+  &lt;p&gt;Коллеги очень часто просят меня писать побольше о подводных камнях и различных секретах Яндекс.Директ. В этой заметке я расскажу о подводном камне №1 — нормализации или склейке запросов.&lt;/p&gt; 
+  &lt;p&gt;Итак, есть клиент РК в тематике авиабилеты. Тематика очень широкая, огромное количество трафика. Есть задача &amp;laquo;показываться любому кто ищет любую информацию о любом направлении, доступном для авиаперелета, цена перехода должна быть минимально возможной — 30 копеек&amp;raquo;. Ок, задача понятна, настраиваем (&lt;a href="http://habrahabr.ru/blogs/context/103791/"&gt;здесь&lt;/a&gt; — подробнее о том как настраивать одноцентовые РК).&lt;/p&gt; 
+  &lt;p&gt;Первичный медиаплан показал очень неожиданную картину. Вот фрагмент скриншота из &amp;laquo;Оценки бюджета&amp;raquo;&lt;br /&gt;&lt;img src="http://habrastorage.org/storage/788b5975/d9c4b3e2/9a4c1d02/45a3952c.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Статистика показов дает нам информацию о том что весьма непопулярное у туристов направление в столицу Индии запрашивается в 4-8 раз чаще чем популярные направления в Европу. Но это же бред какой-то! (с)&lt;/p&gt; 
+  &lt;p&gt;Смотрим семантическое ядро запроса &amp;laquo;Москва Дели&amp;raquo; и очень удивляемся.&lt;br /&gt;&lt;a name="habracut"&gt;&lt;/a&gt;&lt;br /&gt;&lt;img src="http://habrastorage.org/storage/4ce4bd90/a5b98366/fb8233c0/3ce16a81.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;В семантическом ядре явно видим что слова &amp;laquo;Дели&amp;raquo; (столица Индии) и &amp;laquo;День&amp;raquo; (промежуток времени суток) Яндекс считает одинаковыми и склеивает их в один запрос. Также как склеивает например единственные и множественные формы слова (&amp;laquo;купить авиабилет&amp;raquo; и &amp;laquo;купить авиабилеты&amp;raquo; — Директ считает одним запросом, пока рекламодатель принудительно не закрепит словоформу с помощью соответствующего оператора).&lt;/p&gt; 
+  &lt;p&gt;Сообщаю саппорту Директа о таком странном поведении вордстата, получаю ожидаемый ответ. Это работает механизм нормализации.&lt;/p&gt; 
+  &lt;p&gt;&lt;code&gt;&amp;quot;Указанные Вами случаи относятся к так называемой нормализации, когда слова могут обозначать разные части речи.&lt;/code&gt;&lt;/p&gt; 
+  &lt;p&gt;Например, &amp;quot;день&amp;quot; и &amp;quot;дели&amp;quot; - это формы глагола &amp;quot;деть&amp;quot;, поэтому показываются казалось бы совершенно разные словосочетания.&amp;quot;&lt;/p&gt; 
+  &lt;p&gt;Принудительно закрепляем словоформу &amp;laquo;Дели&amp;raquo; с помощью оператора (!) и получаем вполне адекватный прогноз — 776 показов в месяц целевой аудитории. Что вполнее соответсвует спросу интернет-аудитории на это направление.&lt;/p&gt; 
+  &lt;p&gt;Таким образом, благодаря общей сложности лингвистического аппарата русского языка и недостаточной интеллектуальности вордстата в понимании природы запросов — можем получить аналогичную картину в любой тематике:&lt;/p&gt; 
+  &lt;p&gt;Например при рекламе&lt;br /&gt;а) по запросу &amp;laquo;Москва — Киев&amp;raquo; объявление показывается в том числе и абсолютно нецелевой аудитории — тем кто хочет &amp;laquo;купить бильярдный кий в Москве&amp;raquo;. Слово &amp;laquo;Киев&amp;raquo; для яндекса лишь множественная форма запроса &amp;laquo;кий&amp;raquo;(бильярдный).&lt;br /&gt;б) по запросу &amp;laquo;ремонт полов&amp;raquo;. При покупке такого запроса объявление показывается тем кто ищет &amp;laquo;ремонт часов Полет&amp;raquo;.&lt;br /&gt;в) по запросу &amp;laquo;купить %название продукта%&amp;raquo; объявление показывается всем тем кто ищет &amp;laquo;куплю %название продукта%&amp;raquo;, т.е не клиентам, а прямым конкурентам. Их менеджеры по продажам регулряно сканируют форумы и доски объявлений в поисках покупателей на %название продукта% именно с помощью такого запроса&lt;/p&gt; 
+  &lt;p&gt;и т.д. Случаи когда благодаря такого рода склейке запросов можно получить показы нецелевой аудитории довольно часты.&lt;/p&gt; 
+  &lt;p&gt;Отсюда два вывода.&lt;br /&gt;1) Во всех сомнительных случаях смотрим семантическое ядро запроса на предмет склейки &amp;laquo;нашего&amp;raquo; запроса с &amp;laquo;ненашими&amp;raquo; запросами.&lt;br /&gt;2) Во всех сомнительных случаях используем оператор закрепления словоформы (!)&lt;/p&gt; 
+  &lt;p&gt;Будьте внимательны и удачных продаж! &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 09:40:02 GMT</pubDate>
+            <author>Drizzly</author>
+            <category>яндекс.директ</category>
+        </item>
+        <item>
+            <title><![CDATA[Блог компании Droider.ru / Droider Chart 50. Хит-парад приложений для Android]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/company/droider/blog/118585/</guid>
+            <link>http://habrahabr.ru/company/droider/blog/118585/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Всем привет,&lt;/p&gt; 
+  &lt;p&gt;Постпраздничный &lt;b&gt;Droider Chart&lt;/b&gt; как всегда на своем месте. В юбилейном выпуске отправим пост в ЖЖ, настроим красивые виджеты, посмотрим на видеочат для 4 человек, заглянем в Google Docs и разберемся с управлением интернет-кошельком:&lt;/p&gt; 
+  &lt;p&gt;&lt;object width="425" height="355"&gt;&lt;param name="movie" value="http://www.youtube.com/v/XUeg3m30NRg&amp;amp;hl=en&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="wmode" value="transparent" /&gt;&lt;embed src="http://www.youtube.com/v/XUeg3m30NRg&amp;amp;hl=en&amp;amp;fs=1" type="application/x-shockwave-flash" wmode="transparent" allowfullscreen="true" width="425" height="355" /&gt;&lt;/object&gt;&lt;/p&gt; 
+  &lt;p&gt;На этой неделе в хит-параде приняли участие:&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;В рубрике &amp;laquo;Старший брат&amp;raquo;: &lt;/p&gt; 
+  &lt;a href="http://droider.ru/?p=8364"&gt;QIK video connect&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — межплатформенные видеозвонки.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a href="http://habrahabr.ru/tag/Droider%20Chart/"&gt;Другие выпуски Droider Chart →&lt;/a&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 10:07:23 GMT</pubDate>
+            <author>vedensky</author>
+            <category>android</category>
+            <category>android os</category>
+            <category>Droider Chart</category>
+            <category>Droider</category>
+            <category>приложения</category>
+            <category>программы</category>
+            <category>обзор</category>
+            <category>хит-парад</category>
+        </item>
+        <item>
+            <title><![CDATA[Opera / Opera 11.50 Swordfish — первая альфа]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/opera/118583/</guid>
+            <link>http://habrahabr.ru/blogs/opera/118583/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Понимаю, что это просьба, скорее всего, в пустоту, но не могу промолчать: пожалуйста, ребят, выпускайте альфы с локализацией, как Mozilla Foundation или Google Inc.&lt;/p&gt; 
+  &lt;p&gt;Предвосхищаю возмущения по поводу того, что язык знать надо, особенно в IT. Лично я и множество коллег язык знаем на очень хорошем уровне, а чем лучше его знаешь — тем сложнее переключаться между английским окружением программы и русским окружением системы и контента, ведь язык — это не только слова, но и образ мыслей, культурные различия, уникальная парадигма строения мысли, ассоциации…&lt;/p&gt; 
+  &lt;p&gt;Искренне уверен, что выпускать локализованные ночные билды несложно. А если появились новые тексты, до которых переводчики ещё не успели добраться — ничего страшного, пусть хоть основной функционал будет на русском. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 09:55:47 GMT</pubDate>
+            <author>SonicGD</author>
+            <category>opera</category>
+            <category>opera 11.50</category>
+            <category>опера</category>
+            <category>опера 11.50</category>
+        </item>
+        <item>
+            <title><![CDATA[Алгоритмы / Еще одна визуализация ряда алгоритмов и структур данных]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/algorithm/118554/</guid>
+            <link>http://habrahabr.ru/blogs/algorithm/118554/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://habrastorage.org/storage/7ff844fb/80d096f7/067b0a26/d0230f55.png" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Университет Сан-Франциско создал с использованием HTML5 коллекцию визуализаций различных алгоритмов и структур данных. Посмотреть и потыкать кнопки можно &lt;/p&gt; 
+  &lt;a href="http://www.cs.usfca.edu/~galles/visualization/Algorithms.html"&gt;вот тут&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Список визуализированных алгоритмов и структур данных со ссылками под катом.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a name="habracut"&gt;&lt;/a&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt; Базовые&lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt; Индексирование&lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt; Сортировка&lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt; Кучи&lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt;Алгоритмы на графах&lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;h5&gt;Другое&lt;/h5&gt; 
+  &lt;p&gt;P.S. Справедливости ради стоит отметить, что уже давно существовала Java-версия всего этого и на Хабре о ней когда-то &lt;a href="http://habrahabr.ru/blogs/algorithm/27788/#comment_720628"&gt;писали&lt;/a&gt;. Но это было много лет назад, программа давно не поддерживается и ссылки там уже битые. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 09:17:54 GMT</pubDate>
+            <author>tangro</author>
+            <category>алгоритмы</category>
+            <category>структуры данных</category>
+            <category>визуализация</category>
+        </item>
+        <item>
+            <title><![CDATA[Блог компании Microsoft / Инструменты для изучения и перехода на Windows Phone 7 для iPhone-разработчиков]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/company/microsoft/blog/118577/</guid>
+            <link>http://habrahabr.ru/company/microsoft/blog/118577/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;a href="http://windowsphone.interoperabilitybridges.com/"&gt;Windows Phone 7 Interoperability&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — это ресурс, который был запущен Microsoft для поддержки разработчиков сторонних мобильных платформ, которые хотят ознакомиться с разработкой под Windows Phone 7 и иметь возможность быстро портировать код своих приложений для WP7&lt;/p&gt; 
+  &lt;p&gt;На днях в официальном блоге посвященном разработке для Windows Phone 7 &lt;a href="http://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/04/29/leveraging-your-iphone-development-expertise-to-build-windows-phone-7-applications.aspx" rel="nofollow"&gt;было анонсировано&lt;/a&gt; расширение ресурса Windows Phone 7 Interoperability и доступность большого набора новых инструментов.&lt;/p&gt; 
+  &lt;p&gt;Новым инструментом, который был анонсирован, является &lt;a href="http://wp7mapping.interoperabilitybridges.com/" rel="nofollow"&gt;API Mapping from iPhone iOS to Windows Phone 7&lt;/a&gt;. &lt;/p&gt; 
+  &lt;p&gt;&lt;img title="image" alt="image" src="http://microgeek.ru/upload/blog/windowsphone/c8b/c8bb151a0357d8f703d89fac013b5280.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Этот инструмент представляет собой удобный каталог соответствий API iOS и Windows Phone 7, с помощью которого разработчики iPhone могут быстро найти аналогичные функции для Windows Phone 7. Инструмент предлагает примеры использования кода на C# и ссылку на соответствующую справочную документацию по определенным функциям на MSDN.&lt;/p&gt; 
+  &lt;p&gt;Кроме того, опубликовано руководство &lt;strong&gt;Windows Phone 7 Guide for iPhone Application Developers&lt;/strong&gt;, которое состоит из 8 глав и предлагает iPhone-разработчикам легкий путь для введения в разработку под Windows Phone 7. Руководство содержит следующие главы:&lt;a name="habracut"&gt;&lt;/a&gt;&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;Это руководство можно читать онлайн или загрузить в электронном виде (90 страниц) в форматах &lt;/p&gt; 
+  &lt;a href="http://windowsphone.interoperabilitybridges.com/media/1599/wp7%20dev%20guide%20for%20iphone%20app%20developers.docx" rel="nofollow"&gt;.docx&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; или &lt;/p&gt; 
+  &lt;a href="http://windowsphone.interoperabilitybridges.com/media/1254/wp7%20dev%20guide%20for%20iphone%20app%20developers.pdf" rel="nofollow"&gt;.pdf&lt;/a&gt; 
+  &lt;p&gt;Другое новое предложение сайта касается серии видео под общим названием &lt;strong&gt;Developer Stories: Experience developing for Windows Phone 7&lt;/strong&gt;, в котором разработчики разных компаний делятся своим опытом разработки приложений под платформу Windows Phone 7. Видео доступны с главной страницы сайта &lt;a title="http://windowsphone.interoperabilitybridges.com/" href="http://windowsphone.interoperabilitybridges.com/" rel="nofollow"&gt;http://windowsphone.interoperabilitybridges.com/&lt;/a&gt;. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 09:12:05 GMT</pubDate>
+            <author>XaocCPS</author>
+            <category>iphone</category>
+            <category>ios</category>
+            <category>windows phone 7</category>
+            <category>api</category>
+        </item>
+        <item>
+            <title><![CDATA[Яндекс / [Ссылка] Разгромная статья про новые Яндекс.Карты]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/yandex/118555/</guid>
+            <link>http://habrahabr.ru/blogs/yandex/118555/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Вот объясните, пожалуйста: &lt;/p&gt; 
+  &lt;b&gt;ЗАЧЕМ&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;? Вам говорят — не надо нести в наш проект обрисовку гугла. &lt;/p&gt; 
+  &lt;p&gt;Бога ради, пользуйтесь нашим инструментарием (JOSM, Mapnik, etc.), сконвертируйте в формат своего навигатора, поднимите рендер.&lt;/p&gt; 
+  &lt;p&gt;Но зачем лить это в OSM? Зачем подставлять? Зачем закладывать потенциальную мину?&lt;/p&gt; 
+  &lt;p&gt;Люди идут на столько ухищрений, чтобы получить лицензионно чистые данные (фотограмметрия, съемка с борта пассажирского лайнера, съемка местности лазерными дальномерами), а потом приходят такие вот и обрисовывают гугл. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Mon, 02 May 2011 21:30:09 GMT</pubDate>
+            <author>TarzanASG</author>
+            <category>openstreetmap</category>
+            <category>геоцентр-консалтинг</category>
+            <category>карты</category>
+            <category>народная карта</category>
+            <category>покетгис</category>
+            <category>яндекс</category>
+            <category>яндекс.карты</category>
+        </item>
+        <item>
+            <title><![CDATA[Стартапы / Открываем внутренний API сервиса SMS24X7 для разработчиков]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/startup/118538/</guid>
+            <link>http://habrahabr.ru/blogs/startup/118538/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://sms24x7.ru/wp-content/themes/quadro/logo_sms24x7.png" align="right" alt="сервис sms-рассылок sms24x7" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;Давать доступ во &amp;laquo;внутреннюю кухню&amp;raquo; сервисов становится хорошим трендом: Гугл, Яндекс, Mailchimp и многие другие открывают API для работы даже с &amp;laquo;внутренними&amp;raquo; функциями своих сервисов. Спустя месяц после запуска &lt;/p&gt; 
+  &lt;b&gt;SMS24X7.RU&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; мы гордостью представляем Вам &lt;/p&gt; 
+  &lt;a title="API ( в т.ч. СМС шлюз)" href="http://sms24x7.ru/api/"&gt;полное API&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; к нашему сервису. Наша компания всегда старалась быть немного впереди игроков на рынке смс-рассылок и поэтому первые создали &lt;/p&gt; 
+  &lt;b&gt;API&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, включающее СМС-шлюз и все функции для работы с настройками, адресной книгой и СМС-рассылками. Одним словом — абсолютно со всем!&lt;/p&gt; 
+  &lt;p&gt;Надо отметить, что архитектурное решение по введению API в качестве backend'а для нашего &lt;a title="СМС рассылка через SMS24X7.RU" href="http://outbox.sms24x7.ru"&gt;WEB-сервиса СМС-рассылок&lt;/a&gt; доставило нам небольшую головную боль. Зато позволило естественным образом отделить процесс разработки WEB-интерфейса. Таким образом, всё, что есть в сервисе оказалось доступно через API.&lt;/p&gt; 
+  &lt;p&gt;Допустим, что рассказывать о том, зачем нужен СМС-шлюз никому не надо. Все эти СМС-напоминания, СМС-уведомления и СМС-информирование изрядно утомляют, когда заставляют, в основном, не по делу звенеть и дергаться Ваш телефон. Но как быть, если надо разместить форму сбора мобильных номеров на сайте, интегрировать СМС-рассылки к заказчику в личный кабинет или отобразить у себя статистики по использованию СМС-шлюза? Ответ простой — используйте наше API.&lt;/p&gt; 
+  &lt;p&gt;Разрабатывая API мы надеялись, что светлые головы разработчиков, которые, безусловно, есть на Хабре, найдут ему достойное применение!&lt;/p&gt; 
+  &lt;h5&gt;Замечательное предложение для разработчиков по промо-коду &amp;laquo;API&amp;raquo;&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Для стимулирования использования API-сервиса, мы ввели новый тариф &lt;/p&gt; 
+  &lt;a href="http://sms24x7.ru/price/"&gt;&amp;laquo;API-ONLY&amp;raquo;&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, который обладает следующими свойствами:&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;Цена: &lt;b&gt;30 коп. за смс при любом объеме&lt;/b&gt;&lt;/li&gt; 
+   &lt;li&gt;Условия оплаты: Только по предоплате&lt;/li&gt; 
+   &lt;li&gt;Ограничения: техническая поддержка только по email, нельзя создавать рассылки через веб-интерфейс, доступна только полная статистика, биллинг&lt;/li&gt; 
+   &lt;li&gt;Причина ограничений: транзакционные издержки на поддержку + с помощью API можно создавать любые смс-приложения: создание рассылок по адресным базам — лишь элементарный пример его использования.&lt;/li&gt; 
+  &lt;/ul&gt; 
+  &lt;br /&gt; 
+  &lt;b&gt;Не забудьте указать промо-код &amp;laquo;API&amp;raquo; при регистрации&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, тогда Вы получите 15 тестовых SMS и автоматически подключите себе тариф API-ONLY.&lt;/p&gt; 
+  &lt;h5&gt;Немного о создании документации. &lt;/h5&gt; 
+  &lt;br /&gt; 
+  &lt;a href="http://www.doxygen.org/"&gt;Doxygen&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; вещь известная, но в сопряжении с latex'ом очень неповоротливая. Поэтому с генерированием документации пришлось повозиться. Изменить стиль book в latex, чтобы убрать пустые страницы, пришлось при помощи редактирования book.cls. Комментируем пару \cleardoublepage после главной страницы и оглавления, а так же в стиле главы&amp;nbsp;\if@openright\cleardoublepage\else\clearpage\fi заменяем на&amp;nbsp;\clearpage. Сам doxygen для latex не позволяет убрать алфавитный указатель и иерархию классов, но к нашей радости генерирует шаблон документации refman.tex, куда далее подставляются главы. Поэтому мы с легкостью пишем скрипт делающий с refman.tex все, что нам надо и заливающий потом документация к нам на сайт. И вот после всех стараний документация имеет более менее читаемый и понятный вид.&lt;/p&gt; 
+  &lt;p&gt;Готовы ответить на все вопросы по api и предложению ниже в комментариях. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 07:44:07 GMT</pubDate>
+            <author>dsosnin</author>
+            <category>api</category>
+            <category>sms24x7</category>
+            <category>смс-шлюз</category>
+            <category>sms-гейт</category>
+            <category>doxygen</category>
+            <category>разработка сервисов</category>
+        </item>
+        <item>
+            <title><![CDATA[Блог компании Букварио / Ваш малыш — DJ с пеленок]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/company/bookvario/blog/118524/</guid>
+            <link>http://habrahabr.ru/company/bookvario/blog/118524/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Мы продолжаем обзор нашего образовательного проекта &amp;laquo;Букварио&amp;raquo;, на данный момент состоящего из интерактивной красочной азбуки (мы о ней &lt;/p&gt; 
+  &lt;a href="http://habrahabr.ru/company/bookvario/blog/118093/"&gt;уже рассказывали&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;) и ещё одного уникального приложения для iPad и iPhone, речь о котором и пойдет ниже.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;img src="http://habrastorage.org/storage/c4632f18/171236ba/6372e36a/0ae9eca6.png" /&gt; 
+  &lt;p&gt;Продолжая линейку обучающих игровых приложений, а так же желая использовать повторно картинки, созданные в процессе разработки &amp;laquo;Букварио&amp;raquo; и учитывая 20 летний опыт диск-жокейства руководителя проекта Сергея Пименова, наша команда создала уникальное приложение для малышей — &lt;a href="http://frd.io/babydj"&gt;Baby DJ&lt;/a&gt;&lt;br /&gt;&lt;a name="habracut"&gt;&lt;/a&gt;&lt;br /&gt;&lt;img src="http://habrastorage.org/storage/d9761ad3/144f0465/89ed1bb9/39105011.png" /&gt;&lt;br /&gt;Впервые в мировой истории DJ:&lt;br /&gt;&lt;/p&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;Детские песенки в новейшем 9-ти дорожечном формате&lt;/li&gt; 
+   &lt;li&gt;Уникальная система синхронизации мелодий и битов&lt;/li&gt; 
+   &lt;li&gt;3 песенки бесплатно&lt;/li&gt; 
+   &lt;li&gt;5 готовых 9-ти дорожечных песенок&lt;/li&gt; 
+   &lt;li&gt;Регулярное пополнение каталога песенок&lt;/li&gt; 
+   &lt;li&gt;Прогрессивная система управления громкостью разработанная для развития мелкой моторики (только на iPad)&lt;/li&gt; 
+   &lt;li&gt;Возможность записи собственных произведений и отправки их на e-mail&lt;/li&gt; 
+  &lt;/ul&gt; 
+  &lt;br /&gt; 
+  &lt;img src="http://habrastorage.org/storage/7d6c62df/6ca6d548/487646c7/f6a79738.png" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Навигация в приложении максимально проста — после нажатия кнопки &amp;laquo;Играть&amp;raquo;, вы и ваш малыш увидите абсолютно незамысловатый экран, состоящий из 4 кнопок: &amp;laquo;Меню&amp;raquo;, &amp;laquo;Воспроизведение/Стоп&amp;raquo;, &amp;laquo;Мелодии&amp;raquo;, &amp;laquo;Запись&amp;raquo;, предназначение каждой из которых очевидно. &lt;/p&gt; 
+  &lt;p&gt;Кнопка &amp;laquo;Меню&amp;raquo; отправит вас на самый первый экран, где вы сможете выбирать между песнями. Программа предлагает выбрать между двумя предустановленными песенками, либо за дополнительную плату приобрести новые. &amp;laquo;Воспроизведение&amp;raquo; есть непосредственный запуск проигрывания всех &amp;laquo;инструментов&amp;raquo;. Кнопка &amp;laquo;Запись&amp;raquo;, как Вы могли догадаться, вызывает запись проигрываемой на данный момент композиции. Продолжительность записи составляет ровно одну минуту. Кнопка &amp;laquo;Мелодии&amp;raquo; отправит вас прослушивать уже записанные произведения.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/14ad05c9/9f9c43bd/95c03afc/fbd151e6.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Кроме того, хочется развеять ваши возможные переживания относительно музыкальной составляющей приложения. Музыка в программе оригинальная и написана музыкантом и композитором Романом Ивановичем Галушкиным, известном как &amp;quot;&lt;a href="http://agentsmith.promodj.ru/"&gt;Агент Смит&lt;/a&gt;&amp;quot;. Весь коллектив разработчиков, работающих над приложением, имеет непосредственное отношение к созданию музыки. Поэтому ваш ребенок будет работать исключительно с музыкой созданной профессиональными музыкантами!&lt;/p&gt; 
+  &lt;p&gt;Вы можете прослушать все треки из приложения и оценить их сами: &lt;a href="http://soundcloud.com/pimenov/sets/baby-dj-app-songs"&gt;Baby DJ App Songs&lt;/a&gt; by &lt;a href="http://soundcloud.com/pimenov"&gt;pimenov&lt;/a&gt;&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/86fdefc3/f833f043/fd8ace3a/14bb52dc.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Так же не можем не обратить вашего внимания на небольшое отличие старшей iPad-версии Baby DJ от iPhone-версии. В программе есть возможность регулировать громкость каждого отдельно взятого лупа (инструмента) сдвигая и раздвигая пальцы в сторону на каждой пластинке. Ввиду разницы в величинах экранов, такая функция была реализована лишь в &lt;a href="http://frd.io/babydj"&gt;iPad версии Baby DJ&lt;/a&gt;.&lt;/p&gt; 
+  &lt;h4&gt;Немного статистики&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Статистика не может не радовать! На сегодня мы имеем более 11 тысяч скачиваний, что, несомненно, отражает востребованность и популярность нашего приложения для маленьких ди-джеев.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/cc0b7de1/a11b32a7/10c1e132/cd065de7.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;И что самое удивительно, несмотря на то, что в России, безусловно, наше приложение наиболее популярно, тем не менее, более 20% загрузок приходится на Соединенные Штаты.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/d0f1b28e/ad56b9c2/321ce77b/5969940d.png" /&gt;&lt;/p&gt; 
+  &lt;h4&gt;А сегодня?&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; На сегодняшний день наше приложение содержит семь детских песенок, разложенных на лупы в простейшей оболочке. Плюс совсем недавно мы решили расширить репертуар песенок и сделали новую версию хита Кати Чеховой &amp;laquo;Крылья&amp;raquo;. Теперь она существует в версии для детей. Так что если у вас уже есть дети и iPhone или iPad — &lt;/p&gt; 
+  &lt;a href="http://frd.io/babydj"&gt;качайте приложение&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; и развлекайтесь всей семьей. &lt;/p&gt; 
+  &lt;p&gt;Приложение бесплатно, так что вы и ваши дети можете начать наслаждаться приятными мелодиями уже сейчас. В Baby DJ есть три дополнительные песенки, а еще 5 продаются по цене $0.99&lt;/p&gt; 
+  &lt;p&gt;Кроме того, к самым близким планам в отношении апдейтов нашего приложения можно отнести возможность установки записанных вашим малышом (а может быть и вами) композиций на iPhone в качестве рингтона.&lt;/p&gt; 
+  &lt;p&gt;&lt;a href="http://frd.io/babydj"&gt;&lt;img src="http://habrastorage.org/storage/9817c7e3/9999614d/03c3e39c/61db8a4f.png" /&gt;&lt;/a&gt;&lt;/p&gt; 
+  &lt;p&gt;Будем благодарны за отзывы и оценки в AppStore. Ну и, конечно, если вы пишете песенки для детей или у вас есть интересные идеи насчет нашего приложения — присылайте их нам на pimenov@ppk.ru&lt;/p&gt; 
+  &lt;p&gt;Учитесь играя!&lt;br /&gt;Команда &lt;a href="http://www.bookvar.io/"&gt;Букварио&lt;/a&gt;. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 06:56:35 GMT</pubDate>
+            <author>Shapelez</author>
+            <category>babydj</category>
+            <category>букварио</category>
+        </item>
+        <item>
+            <title><![CDATA[Apple / Две истории о TimeMachine]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/apple/118528/</guid>
+            <link>http://habrahabr.ru/blogs/apple/118528/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://habreffect.ru/files/31e/c3e548a5f/512-time-machine.png" align="left" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Time Machine — инновационная система резервного копирования, встроенная непосредственно в Mac OS X 10.5 &amp;laquo;Leopard&amp;raquo;. Для работы cовместно с Time Machine в среде Mac OS X компанией Apple Inc. выпущена точка доступа Time Capsule.&lt;/p&gt; 
+  &lt;p&gt;Хочу рассказать две истории о том, как Time Machine спас меня.&lt;/p&gt; 
+  &lt;p&gt;Изначально Time Machine привлекла меня как красивая игрушка, вот, например, как выглядит мультиверсионность папки:&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habreffect.ru/files/636/644e37e77/time-machine-mode.jpg" /&gt;&lt;/p&gt; 
+  &lt;p&gt;После подключения жесткого диска к USB-хабу, потребовалось несколько минут для настройки. Теперь мне надо было просто подключать хаб (к которому также подключена мышь и клавиатура) к макбуку, и бекап происходил автоматически на фоне.&lt;/p&gt; 
+  &lt;p&gt;После недели игр с Time Machine, я о нем забыл, но он все еще продолжал свое дело. Вспомнил я о нем лишь через полгода, когда, выходя с работы, уронил макбук на пол. Мак еще не успел заснуть, поэтому при падении поцарапался жесткий диск. &lt;/p&gt; 
+  &lt;p&gt;Надо было срочно что-то делать, т.к. макбук был моим основным рабочим инструментом. В интернете был найден идентичный жесткий диск, на следующий день я с утра заехал в магазин, чтобы его купить и за час до работы заменил его. Теперь нужно было восстановить систему. Ах, да! У меня же все на Time Machine! Я очень надеялся, что все пройдет гладко, т.к. когда я пользовался Windows, то встроенный туда бекап ни разу не сработал.&lt;/p&gt; 
+  &lt;p&gt;И что вы думаете? Через полчаса восстановления из бекапа у меня в руках был ноутбук в том виде, в котором он был перед тем как я его уронил!&lt;/p&gt; 
+  &lt;p&gt;Вторая история случилась двумя годами позже. Макбук уже постарел и время от времени начал перегреваться. Чистка его от пыли не помогала. И в конце концов он перестал включаться. Это снова произошло в конце рабочего дня, а на следующий день снова надо работать! Я побежал в магазин, купил новый макбук и снова за полчаса у меня был макбук в том виде, в котором я его запомнил до аварии.&lt;/p&gt; 
+  &lt;p&gt;К чему я это все? Пользователи Mac OS! Обязательно обратите внимание и настройте бекапы с использованием уже встроенного в систему Time Machine. Один раз настроенный бекап сохранит ваши данные и нервную систему. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Mon, 02 May 2011 11:34:31 GMT</pubDate>
+            <author>mdevils</author>
+            <category>mac</category>
+            <category>time machine</category>
+            <category>backup</category>
+        </item>
+        <item>
+            <title><![CDATA[Информационная безопасность / Новые подробности о взломе серверов Sony]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/infosecurity/118572/</guid>
+            <link>http://habrahabr.ru/blogs/infosecurity/118572/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; По сообщениям Nikkei.com, появились новые подробности в истории со взломом онлайн-сервисов Sony.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; На сей раз выяснилось, что были украдены данные 12700 кредитных карт, но уже из другого онлайн-сервиса корпорации — Sony Online Entertainment.&lt;/p&gt; 
+  &lt;p&gt;&lt;a name="habracut"&gt;&lt;/a&gt;&lt;br /&gt;Хотя официального подтверждения от представителей Sony пока не получено, сайт SOE отключен, а на его главной странице &amp;laquo;красуется&amp;raquo; объявление о том, что, дескать, да, данные были украдены, но вы не волнуйтесь, там были только ваши фамилия, имя, отчество, возраст, пол, адрес, телефон, учетная запись и хэш пароля. И вообще мы сами свяжемся со всеми, кого это затронуло.&lt;/p&gt; 
+  &lt;p&gt;В том же объявлении сказано, что была допущена утечка из &amp;laquo;старой базы данных 2007 года&amp;raquo;, злоумышленники получили доступ к 12700 номерам кредитных карт, не-американских пользователей, а также примерно 10700 номеров банковских счетов пользователей из Германии, Австрии, Нидерландов и Испании.&lt;/p&gt; 
+  &lt;p&gt;Sony связывает эту утечку с взломом PSN, произошедшим в середине апреля, и полагает, что данные из SOE были украдены тогда же, однако непонятно, как это соотносится с их предыдущими заявлениями, что сервисы PSN и SOE находятся в разных сетях, и никак не связаны.&lt;/p&gt; 
+  &lt;p&gt;Небезынтересным будет также добавить, что в конце марта Sony уволила более 200 сотрудников, закрыв три игровых студии, и сократив свое подразделение, занимающееся онлайн-сервисами. В связи с этим, весьма закономерно, что на ряде форумов стали появляться спекуляции о том, что взлом серверов корпорации — дело рук инсайдера.&lt;/p&gt; 
+  &lt;p&gt;Ссылки:&lt;br /&gt;&lt;a href="http://www.bgr.com/2011/05/02/sony-suffers-another-major-security-breach/"&gt;www.bgr.com/2011/05/02/sony-suffers-another-major-security-breach/&lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.soe.com/securityupdate/"&gt;www.soe.com/securityupdate/&lt;/a&gt;&lt;br /&gt;&lt;a href="http://psx-scene.com/forums/f6/sony-loses-another-12-700-credit-card-account-numbers-24-6-million-more-accounts-compromised-85881/"&gt;psx-scene.com/forums/f6/sony-loses-another-12-700-credit-card-account-numbers-24-6-million-more-accounts-compromised-85881/&lt;/a&gt;&lt;br /&gt;&lt;a href="http://psx-scene.com/forums/f6/psn-hack-inside-job-85869/"&gt;psx-scene.com/forums/f6/psn-hack-inside-job-85869/&lt;/a&gt; &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 07:24:52 GMT</pubDate>
+            <author>wedge</author>
+            <category>sony</category>
+            <category>инсайдеры</category>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome / В Google Chrome тестируется использование нескольких профилей]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/google_chrome/118561/</guid>
+            <link>http://habrahabr.ru/blogs/google_chrome/118561/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Как &lt;/p&gt; 
+  &lt;a href="http://googlesystem.blogspot.com/2011/05/google-chrome-tests-multiple-profiles.html"&gt;сообщается&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; в&amp;nbsp;блоге Google Operating System, Google начал тестирование использования нескольких профилей в&amp;nbsp;Google Chrome. &lt;/p&gt; 
+  &lt;p&gt;Эта возможность из&amp;nbsp;Chrome OS&amp;nbsp;теперь доступна в&amp;nbsp;&lt;a href="http://habrahabr.ru/blogs/google_chrome/100101/"&gt;Chrome Canary Build&lt;/a&gt; и&amp;nbsp;в&amp;nbsp;Chromium. Просто введите &lt;i&gt;about:flags&lt;/i&gt; в&amp;nbsp;адресной строке, включите &amp;laquo;Несколько профилей&amp;raquo; (&lt;i&gt;Multiple profiles&lt;/i&gt;) и&amp;nbsp;кликните &amp;laquo;Перезапустить браузер&amp;raquo; (&lt;i&gt;Relaunch browser&lt;/i&gt;) внизу страницы.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://2.bp.blogspot.com/-OHJiTlsInfg/Tb6ttla7bvI/AAAAAAAAohA/9GJVzyfddP8/s640/chrome-multiple-profiles-launched.png" align="center" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Новая функция ассоциирует каждое окно с&amp;nbsp;одним профилем и&amp;nbsp;позволяет синхронизировать некоторые параметры с&amp;nbsp;Google-аккаунтом.&lt;/p&gt; 
+  &lt;p&gt;Как &lt;a href="http://www.chromium.org/user-experience/multi-profiles"&gt;объясняется&lt;/a&gt; в&amp;nbsp;документе по&amp;nbsp;юзабилити Google Chrome, пользователи смогут связывать разные открытые окна браузера с&amp;nbsp;разными Google-аккаунтами, и, соответственно, в&amp;nbsp;каждом наборе окон будет разный набор параметров, приложений, закладок и&amp;nbsp;так далее&amp;nbsp;— всех тех элементов, которые связаны с&amp;nbsp;конкретным пользователем. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 00:51:30 GMT</pubDate>
+            <author>aleksandrit</author>
+            <category>Google Chrome</category>
+            <category>Google</category>
+        </item>
+        <item>
+            <title><![CDATA[Блог компании Microsoft / Обзор Windows Azure Toolkit for Windows Phone 7]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/company/microsoft/blog/118569/</guid>
+            <link>http://habrahabr.ru/company/microsoft/blog/118569/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Привет, хабрачитатели!&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/8f07522c/e946f98d/da986cc7/b6b5e09e.png" alt="Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Я уже долгое время занимаюсь мобильными и встраиваемыми технологиями. Ограничения по ресурсам как самого устройства, так и его производетеля, могут налагать определенные ограничения на доступные конечному пользователю мобильного устройства сервисы. Например, не очень мощный процессор у устройства; нет возможности поддерживать выделенную инфраструктуру сервисов для своего устройства у производителя.&lt;/p&gt; 
+  &lt;p&gt;Когда я только узнал про облачные технологии, я подумал, что было бы здорово получить доступ к мощи облака на мобильном устройстве. Поскольку я специзируюсь на технологиях Microsoft, то я задумывал сделать пример, где с Windows Phone 7 будут удобно доступны сервисы хранения Windows Azure.&lt;/p&gt; 
+  &lt;p&gt;Но меня опередили. &lt;/p&gt; 
+  &lt;p&gt;Вышел &lt;b&gt;Windows Azure Toolkit for Windows Phone 7&lt;/b&gt;, обзор которого я представляю вашему вниманию.&lt;/p&gt; 
+  &lt;p&gt;&lt;a name="habracut"&gt;&lt;/a&gt;&lt;br /&gt;Облачные технологии становятся всё более популярными, количество пользователей смартфонов стремительно растёт. Всё больше и больше проектов совмещают в себе клиентскую часть на мобильном устройстве и ответную часть в облаке. &lt;/p&gt; 
+  &lt;p&gt;Не осталась в стороне и компания Microsoft. У нас есть PaaS облако Windows Azure и есть, набирающая популярность, мобильная платформа Windows Phone 7. С самого начала появления облачной платформы Windows Azure она поддерживает REST API, поэтому всегда можно написать приложение, которое будет взаимодействовать с Windows Azure, используя обычные HTTP запросы. Но это далеко от удобства использования Windows Azure при разработке для Windows-платформы.&lt;/p&gt; 
+  &lt;p&gt;Windows Azure Toolkit for Windows Phone 7 как раз и предназначен для упрощения использования возможностей технологий Windows Azure на платформе Windows Phone 7. Набор включает в себя библиотеки классов для Windows Phone 7 для взаимодействия с Windows Azure с исходным кодом, шаблоны проектов, пример приложения и документацию. Также он содержит вспомогательный набор сервисов, которые обеспечивают более безопасное использование сервисов Windows Azure на мобильном устройстве.&lt;/p&gt; 
+  &lt;h4&gt;Установка&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Тулкит поставляется в виде самораспаковывающегося архива WAZToolkitForWP7.Setup.exe. Он распаковывается в следующую иерархию директорий:&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/c1718d54/afaa52a1/4f3723ed/0ff59625.png" alt="Иерархия директорий Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;br /&gt;Чтобы запустить установку шаблонов, надо запустить файл Setup.cmd. Запсутится утилита, которая проверит, что на машине разработчика присутствует всё, необходимое для работы тулкита.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/9545a9c5/254dba12/7a677e12/f2aad2a3.png" alt="Утилита проверки зависимостей Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Если чего-то нет – даст ссылку на скачивание или на скрипт, выполняющий необходимые настройки. Финальный шаг установки – установка шаблонов для Visual Studio 2010.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/4216c0de/da527296/3586a3a1/fc824a17.png" alt="Установка шаблонов Visual Studio 2010 из Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;/p&gt; 
+  &lt;h4&gt;Сервисы&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Для того чтобы получить доступ к своему аккаунту хранилища на Azure, необходимо знать название аккаунта и ключ. Поскольку хранить подобную информацию в мобильном приложении не очень безопасно и не удобно, тулкит предоставляет сервисы, которые позволяют использовать другую модель аутентификации в приложении с дополнительными возможностями по разграничению уровня доступа к данным.&lt;/p&gt; 
+  &lt;p&gt;Сервисы предоставляемые тулкитом, также как и веб-сайт системы администрирования пользователей хостятся в веб-роли ASP.NET MVC 2.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/db15f669/f2c1c94e/0400bb73/83c623e2.png" alt="Сервисы Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;/p&gt; 
+  &lt;p&gt;&lt;b&gt;Сервисы аутентификации тулкита &lt;/b&gt;(AuthenticationService) базируются на ASP.NET провайдерах (Membership, Roles, Profile и Session State Store) для таблиц Windows Azure Table. Исходный код провайдера содержится в самом тулките (\Samples\Libraries\AspProviders\). Прежде чем получить доступ к каким-либо данным необходимо аутентифицироваться, используя этот сервис.&lt;/p&gt; 
+  &lt;p&gt;&lt;b&gt;Обработчик HTTP REST API запросов к таблицам Windows Azure &lt;/b&gt;(AzureTablesProxy.axd) используется как прокси запросов к таблицам Windows Azure. Запросы, которые приходят на этот сервис подписываются ключом аккаунта хранения и перенаправляются к реальной конечной точке (endpoint) таблиц Windows Azure.&lt;/p&gt; 
+  &lt;p&gt;&lt;b&gt;WCF REST сервис генерации подписей для общего доступа&lt;/b&gt; (SharedAccessSignatureService) для работы с контейнерами и BLOB-ами.&lt;/p&gt; 
+  &lt;h4&gt;Библиотеки&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; В папке &lt;/p&gt; 
+  &lt;b&gt;\Samples\Libraries\&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; находятся библиотеки в исходных кодах:&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;b&gt;AspProviders&lt;/b&gt;: ASP.NET провайдеры (Membership, Roles, Profile и Session State Store) поверх таблиц Windows Azure Tables;&lt;/li&gt; 
+   &lt;li&gt;&lt;b&gt;System.Data.Services.Client&lt;/b&gt;: версия клиентской библиотеки OData для Windows Phone 7 (&lt;a href="http://odata.codeplex.com"&gt;http://odata.codeplex.com&lt;/a&gt;) слега поправленная для поддержки работы с Azure Table API;&lt;/li&gt; 
+   &lt;li&gt;&lt;b&gt;WindowsPhone.Recipes.Push.Messasges&lt;/b&gt;: Push Notification Server Side Helper Library, — серверная библиотека, часть &amp;laquo;рецепта&amp;raquo; &amp;laquo;Windows Phone 7 Push Recipe&amp;raquo;. Позволяет отсылать все типы пуш-оповещений: Tile, Toast, и Raw;&lt;/li&gt; 
+   &lt;li&gt;&lt;b&gt;WindowsPhoneCloud.StorageClient&lt;/b&gt;: клиентская библиотека для работы с Azure Storage для Windows Phone 7. Эта библиотека позволяет:&lt;br /&gt; 
+    &lt;ul&gt; 
+     &lt;li&gt;создавать и удалять таблицы Azure Tables;&lt;/li&gt; 
+     &lt;li&gt;выполнять CRUD операции со строками таблиц Azure Tables;&lt;/li&gt; 
+     &lt;li&gt;Загружать BLOB-ы в публичные/приватные контейнеры, с использованием подписей общего доступа (Shared Access Signatures);&lt;/li&gt; 
+     &lt;li&gt;Получать список BLOB-ов в приватных/публичных контейнерах с использованием подписей общего доступа (Shared Access Signatures)&lt;/li&gt; 
+    &lt;/ul&gt;&lt;/li&gt; 
+  &lt;/ul&gt; 
+  &lt;h4&gt;Шаблоны Visual Studio 2010&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Тулкит содержит два шаблона, каждый из которых доступен и на C#, и на Visual Basic.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/412330de/724002aa/6cf4aa37/e22046b0.png" alt="Шаблоны Windows Azure Toolkit for Windows Phone 7" /&gt;&lt;br /&gt;&lt;/p&gt; 
+  &lt;ul&gt; 
+   &lt;li&gt;&lt;b&gt;Windows Phone 7 Cloud Application&lt;/b&gt;: Упрощает создание приложения Windows Phone 7 использующего возможности Windows Azure. Шаблон генерирует проект Windows Azure, проект ASP.NET MVC 2 (веб-роль), и проект приложения Windows Phone 7. Данный проект демонстрирует, как можно использовать сервисы хранения Windows Azure без необходимости хранить данные аккаунта на мобильном устройстве.&lt;/li&gt; 
+   &lt;li&gt;&lt;b&gt;Windows Phone 7 Empty Cloud Application&lt;/b&gt;: То же самое, что и шаблон Windows Phone 7 Cloud Application, но вместо примера приложения Windows Phone 7, демонстрирующего возможности сервисов тулкита, создается пустой проект приложения Windows Phone 7 с минимальным набором настроек и зависимостей.&lt;/li&gt; 
+  &lt;/ul&gt; 
+  &lt;h4&gt;Дополнительно&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Анонс: &lt;/p&gt; 
+  &lt;a href="http://www.wadewegner.com/2011/03/windows-azure-toolkit-for-windows-phone-7/"&gt;http://www.wadewegner.com/2011/03/windows-azure-toolkit-for-windows-phone-7/&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Скачать: &lt;/p&gt; 
+  &lt;a href="http://watoolkitwp7.codeplex.com/"&gt;http://watoolkitwp7.codeplex.com/&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Видео с Channel 9: &lt;/p&gt; 
+  &lt;a href="http://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-41-Windows-Azure-Toolkit-for-Windows-Phone-7"&gt;http://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-41-Windows-Azure-Toolkit-for-Windows-Phone-7&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Подписи для общего доступа (Shared Access Signatures): &lt;/p&gt; 
+  &lt;a href="http://msdn.microsoft.com/library/ee395415.aspx"&gt; http://msdn.microsoft.com/library/ee395415.aspx&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Вспомогательная серверная библиотека для пуш-оповещений (Push Notification Server Side Helper Library) &lt;/p&gt; 
+  &lt;a href="http://create.msdn.com/en-US/education/catalog/article/pnhelp-wp7"&gt;http://create.msdn.com/en-US/education/catalog/article/pnhelp-wp7&lt;/a&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 07:00:24 GMT</pubDate>
+            <author>stasus</author>
+            <category>windows phone 7</category>
+            <category>windows azure</category>
+            <category>toolkit</category>
+        </item>
+        <item>
+            <title><![CDATA[Блог компании МойСклад / 1С в аренду — конкурент для облачных решений?]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/company/moysklad/blog/118509/</guid>
+            <link>http://habrahabr.ru/company/moysklad/blog/118509/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; С интересом посмотрел ваше решение, зарегистрировался в демо-версии.&lt;/p&gt; 
+  &lt;p&gt;Однако, столкнулся с проблемами. Возможно, они будут вам интересны, и помогут увеличить продажи.&lt;/p&gt; 
+  &lt;p&gt;Кратко о себе: я — директор веб-студии, которая делает много интернет-магазинов на 1С-Битрикс. У некоторых наших клиентов возникают вопросы по интеграции с 1С, причем самой 1С у них может и не быть. Если я правильно понял, ваша система позволяет обойтись без 1С: Управление торговлей.&lt;/p&gt; 
+  &lt;p&gt;Соответственно, смотрел:&lt;br /&gt;1. Интеграцию с 1С-Битрикс&lt;br /&gt;2. Возможности по работе с системой&lt;br /&gt;3. Решение специфических задач одного из моих клиентов&lt;br /&gt;4. Общее впечатление от системы&lt;/p&gt; 
+  &lt;p&gt;Итак:&lt;br /&gt;1. Интеграция с 1С-Битрикс есть, и, видимо, в более-менее стандартной форме. Это ок. Однако, нужно проверить, как это работает.&lt;/p&gt; 
+  &lt;p&gt;2. Возможности по работе с системой. Здесь не ок.&lt;br /&gt;— В прайс-листе стоимость зависит от количества документов и размера дискового пространства. Не понятно до регистрации, что такое документ, а уж сколько он занимает на диске — тем более непонятно. Итог: непрозрачная ценовая политика, много неточностей.&lt;/p&gt; 
+  &lt;p&gt;— Демо-версия: то, что предлагается под демо-версией — это не демо-версия, а 30-дневная полнофункциональная рабочая версия. Думаю, что с маркетинговой точки зрения имеет смысл разделять демо-версию (с занесенными данными) от 30-дневного пробника, который, безусловно, нужен. Однако человеку, который хочет просто посмотреть и быстро принять решение, не нужно выкатывать полноценную демо с совсем незаполненной информацией систему.&lt;/p&gt; 
+  &lt;p&gt;Предложение: разделить демо и &amp;laquo;Начните работать в МойСклад прямо сейчас и бесплатно!&amp;raquo;&lt;/p&gt; 
+  &lt;p&gt;— Обучающее видео.&lt;br /&gt;Добавьте скриншотов из него. Для быстрой оценки и принятия решения видео — слишком долго и при пролистывании возможно пропустить то самое главное, что требуется&lt;/p&gt; 
+  &lt;p&gt;— партнерская программа. &lt;br /&gt;кажется, здесь все ок. молодцы.&lt;/p&gt; 
+  &lt;p&gt;3. Решение задачи для специфического клиента: у него есть интернет-магазин, заказ в котором комплектуется в двух разных торговых точках. Смотрел, можно ли использовать систему для решения этой задачи &lt;br /&gt;ответ пока для себя не получил, будем смотреть завтра более подробно с программистами&lt;/p&gt; 
+  &lt;p&gt;4. Общее впечатление от системы&lt;br /&gt;— от сайта:&lt;br /&gt;дешево и налеплено. вроде и вся информация есть, а читается тяжело. Сама система имеет гораздо более приятный дизайн, чем сайт. Сайт кажется темным и &amp;laquo;дешевым&amp;raquo;. Форма входа в систему наверху просто давит. Отсутствие картинок в тексте на многих страницах, особенно документации, вызывает желание немедленно прекратить ее читать.&lt;br /&gt;Главная страница при этом выглядит более-менее адекватной за счет разноцветных блоков и разрядки текста &amp;laquo;воздухом&amp;raquo;.&lt;br /&gt;Также давит черный прямоугольник с тенью &amp;laquo;бесплатный звонок с сайта&amp;raquo;. Сделайте его не таким грустным :)&lt;/p&gt; 
+  &lt;p&gt;— от документации.&lt;br /&gt;Пробовали ли вы сами ее прочитать на сайте?&lt;br /&gt;а) добавьте к каждой статье ссылки на предыдущую и следующую статью, а также на раздел. Это очень повышает скорость работы с документацией&lt;br /&gt;б) добавьте картинок!&lt;/p&gt; 
+  &lt;p&gt;— другая информация&lt;br /&gt;например, новости: &lt;a href="http://www.moysklad.ru/news/293-news-prod-order/"&gt;www.moysklad.ru/news/293-news-prod-order/&lt;/a&gt;&lt;br /&gt;в новости идет инструкция и описание новых возможностей! так сделайте скриншоты и покажите товар лицом!&lt;/p&gt; 
+  &lt;p&gt;Итог&lt;br /&gt;В общем, видимо, с функциями всё хорошо, поэтому очень-очень советую доработать маркетинговые материалы — сайт, pdf листовки (да-да! чтобы можно было распечатать и положить на стол директору!) и другое.&lt;/p&gt; 
+  &lt;p&gt;Надеюсь, что мой отзыв был полезен. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Sun, 01 May 2011 21:40:42 GMT</pubDate>
+            <author>oalexeev</author>
+            <category>1с</category>
+            <category>SaaS</category>
+        </item>
+        <item>
+            <title><![CDATA[Проектирование и рефакторинг / Построение отказоустойчивой (fault tolerant) системы]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/refactoring/118496/</guid>
+            <link>http://habrahabr.ru/blogs/refactoring/118496/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; В разработке банковского ПО данному аспекту системы уделяется наибольшее внимание. Часто, описывая отказоустойчивую систему, используют слова: Fault Tolerance, Resilience, Reliability, Stability, DR (disaster recovery). Данная характеристика — суть способность системы продолжать корректно работать при падении одной или нескольких подсистем, от которых она зависит. Я кратко опишу какие подходы могут применяться в данной области и приведу пару примеров.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a name="habracut"&gt;&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Сразу прошу меня просить, что некоторые вещи будут специфичны только для java, но все же, по большому счету все нижеописанное применимо к любой платформе, поэтому топик и помещен в эту тему.&lt;/p&gt; 
+  &lt;h4&gt;С чего начать?&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Прежде всего нужно хорошо знать архитектуру вашего приложения, охватывать взглядом весь стек вашей системы — от софта до железа.&lt;/p&gt; 
+  &lt;p&gt;Так же можно посмотреть в сторону такой вещи как fault tree analysis. Это когда вы строите диаграмму ваших компонент в виде дерева зависимостей, и снизу вверх начинаете проставлять кумулятивную вероятность падения ваших компонентов. На этой диаграмме будет хорошо видны самые уязвимые места, которые потенциально могут принести самый большой ущерб.&lt;/p&gt; 
+  &lt;p&gt;Самое сложный вариант, это когда ваша система зависит от подсистем, находящихся вне вашей компетенции, и не являющихся fault tolerat. В первую очередь, надо конечно попытаться убедить владельцев этих подсистем предоставить вам отказоустойчивое решение, таким образом, сделав это их проблемой, а не вашей. Но, к сожалению, это не всегда удается сделать, поэтому в этом случае вам прежде всего надо будет в деталях разобраться как работают эти подсистемы, и уже самим делать отказоустойчивое решения, например, подсоединяясь одновременно к двум одинаковым продублированным инстансам подсистем, но об этом ниже. &lt;/p&gt; 
+  &lt;h4&gt;Способы реализации&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Есть два принципиально разных подхода, хотя они вполне могут независимо или полузависимо сочетаться для вашей системы. Один подход — это DR (disaster recovery), когда полная копия всей вашей системы может быть поднята в другом датацентре. Данный метод выручает практически в любой ситуации, однако, он может имеет очень длительный промежуток простоя. Я знаю одну систему, в которой это занимает в районе часа. Но тут тоже надо быть очень аккуратным, не только конфигурация системы, но и железо в DR должны совпадать с продакшеном. Например, когда мы тестировали DR, в одной из систем с которыми я работал, то у нас при сильной нагрузке оказалось, что один из компонентов заточен на работу в однопоточной среде и его пропускная способность пропорциональна частоте процессора, а на DR у нас была мега железка с огромным количеством ядер, но с небольшой тактовой частотой, так что этот компонент стал затыкаться. Вобщем, тест был весьма неудачен и &amp;laquo;более клевое&amp;raquo; железо на текущей конфигурации нашей системы нам явно не подходило.&lt;/p&gt; 
+  &lt;p&gt;Второй способ — это программно реализовывать отказоустойчивость для каждого из компонент и их взаимодействия. Различных техник сделать вашу систему более устойчивой очень много. Давайте рассмотрим некоторые из них.&lt;/p&gt; 
+  &lt;h5&gt;low level fault tolerant services&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Принцип тут следующий — ваша система должна состоять из более менее независимых систем каждая из которых должна быть отказоустойчивой. В идеале не изобретать велосипед, а использовать уже готовые решения. Это на самом деле наилучший вариант, когда вся ваша система будет опираться на так называемые low level fault tolerant services.&lt;/p&gt; 
+  &lt;h5&gt;Single point of failure&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Избегайте архитектуры, в которой вся ваша система рушиться при падении одного из компонент. Достичь это можно либо используя принцип избыточности (см. ниже), либо делать компоненты по возможности независимыми, чтобы при падении одного из компонент, переставала работать только часть функциональности, а остальные части системы продолжали работать. Конечно последнее решение не подходит для основного функционала вашей системы, но если при проблемах в каких нибудь рюшечках вашей системы, дающих вспомогательные функция, случилась проблема, и это выключило всю вашу систему целиком, то, наверное, это не очень хорошо. &lt;/p&gt; 
+  &lt;h5&gt;Избыточность (Redundancy)&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Это когда в вашей системе присутствует избыточное количество необходимых вам компонент. И при падении одного из таких избыточных компонент, все должно продолжать работать. При таком подходе проектирования можно выделить две стратегии: active-active и active-passive.&lt;/p&gt; 
+  &lt;h5&gt;Active-Active&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Это значит, что вы работаете одновременно с двумя идентичными компонентами одновременно. Например в системе, где клиент получает цены котировок, он может подписаться сразу в два разных компонента и получать цены одновременно из двух мест. Если один из таких компонентов упадет, то клиент вообще не заметит, что в системе случилась какая-то проблема, что является несомненным плюсом данного подхода. В качестве минусов можно выделить, что удваивается количество трафика и время на его обработку, а так же дополнительная серверная инфраструктура, которая постоянно находится в рабочем режиме и потребляет ресурсы. Еще данный подход бывает невозможно реализовать из-за различных бизнес ограничений. Например трейдинговая система не может посылать одновременно один и тот же ордер в два независимых коннектора к бирже, так как в случае успех на бирже появиться сразу два ордера, а это абсолютно недопустимо.&lt;/p&gt; 
+  &lt;h5&gt;Active-Passive&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Данная стратегия, представляет собой только один постоянно рабочий компонент, в случае падения которого, автоматически поднимается второй, восстанавливает состояние и берет на себя всю работу. Например такая функциональность есть в TIBCO EMS. Если вы включаете данную опцию, то рабочий экземпляр EMS постоянно мониторится, а в случае отказа запускается второй экземпляр EMS, отправляет все непрочитанные сообщения и начинает принимать новые. Но тут очень важно понимать, чем за это придется заплатить. В одном из проектов, где мы включали данную опцию, максимальная пропускная способность данного компонента упала примерно в два раза. &lt;/p&gt; 
+  &lt;p&gt;Так же важно понимать, что если вы не используете готовое решение, то его acttive-passive реализация скорее всего потребует больше усилий, нежели active-active solution, так как тут нужен надежный способ проверки, что активный компонент функционирует, и нужно уметь восстанавливать состояние на момент падения или постоянно его синхронизировать. Еще данное решение всегда будет иметь некую задержку в работе при падении компонента. Зато пассивный компонент скорее всего будет потреблять много меньше ресурсов и вы можете получить отказоустойчивое решение на более слабом железе. &lt;/p&gt; 
+  &lt;h5&gt;Балансировка нагрузки (Load Balancing)&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Обычно этот термин всплывает при построении высоконагруженных систем. Однако для отказоустойчивых систем данный принцип тоже можно применить. Идея в том, что у вас есть несколько идентичных компонентов, между которыми более менее равномерно распределяется вся нагрузка. В отличие от вышеописанной active-active стратегии, здесь каждую задачу выполняет только один компонент. Данный механизм идеально подходит для stateless компонент, иначе для отказоустойчивости вам постоянно придется синхронизировать состояние. Например в случае веб-серверов — делать репликацию сессии. В данном решении очень важно иметь как минимум N+1 redundancy, т.е. если для пиковых нагрузок вам необходимо N работающих на всю катушку компонент, то в вашей системе должно присутствовать N+1 таких компонент, так как иначе, если у вас упадет один из элементов, то на все остальные нагрузка увеличиться и вся ваша система рухнет как домино.&lt;/p&gt; 
+  &lt;p&gt;Самый распространенный пример load balancing — это, наверное, балансирование нагрузки веб-серверов. Тут бывают как программные решения (Nginx), так и специальные железки. В backend системах load-balancing часто используют для реализации балансирования реализуют при помощи JMS очереди, вешая на не неё несколько идентичных слушателей. В данном случае очередь гарантирует, что сообщение попадет только в один из компонентов, и пока он его не обработает, следующее сообщение он взять не сможет. Кстати в такой же системе, если в качестве очереди взять topic, то можно реализовать active-active систему.&lt;/p&gt; 
+  &lt;h5&gt;Защитное программирование (Defencive coding)&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Чтобы ваше приложение было максимально отказоустойчивым, надо не только думать об этом во время дизайна, но и во программирования. Нужно всегда думать, а что если случиться то-то и писать код обрабатывающий все такие непредвиденные ситуации. Приведу несколько примеров.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;Infinite Loop&lt;/i&gt;. Следите за тем, чтобы при возникновения ошибки во время обработки сообщения, вы не выходили в бесконечный цикл, который постоянно пытается выполнить данную операцию, особенно если сообщение приходит вам извне, и вы не можете гарантировать, что оно корректно. Я уже ни один раз видел, как из-за этой ошибки подвисает вся система. Что же в этом случае делать? Например, можно отправлять сообщение об ошибке в систему мониторинга (см. ниже) и переходить к обработке следующего таска.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;Reconnection&lt;/i&gt;. Обязательно пишите логику реконнекта, особенно &lt;a href="http://habrahabr.ru/blogs/development/118132/"&gt;в системах с наличием firewall&lt;/a&gt;.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;Degradate gracefully. Throttling&lt;/i&gt;. Если ваше приложение получает извне сообщения, то обязательно подумайте, что вы будете делать, если вам будет приходить сообщений много больше, чем вы можете обработать. Например, вы можете начинать реджектить запросы или эмулировать медленный коннекшен, замедляя отсылку ответа.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;State Management&lt;/i&gt;. Попытайтесь сделать так, чтобы ваша система время от времени сохраняла свое состояние (checkpoint), чтобы в случае больших проблем вы всегда могли откатиться в последние консистентное состояние. Например, в FIX протоколе, распространенном в финансовых приложениях, есть понятие sequence. Каждое сообщение имеет свой порядковый номер, сервер запоминает номер последнего отосланного сообщения, а клиент запоминает номер последнего принятого сообщения. На рестарте они обмениваются данными номерами, и если между ними есть промежуток, то сервер высылает все пропущенные сообщения.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;InfrastructureError&lt;/i&gt;. Если в вашем приложении произошла ошибка, из которой вы не можете восстановиться, например OutOfMemoryError в java, то можно попробовать остановить приложение и запустить его заново. Это можно автоматизировать с помощью такой тулзы как Tanuki Java Service Wrapper, о данной функции которого я подробно писал &lt;a href="http://www.javaspecialist.ru/2011/04/java-service-wrapper.html"&gt;тут&lt;/a&gt;.&lt;/p&gt; 
+  &lt;p&gt;&lt;i&gt;NullPointerException&lt;/i&gt;. Однако, не надо сходить с ума, проверяя каждый входной параметр метода или конструктора на null. Лучше примите за правило: никогда не передавать в системе null между компонентами. &lt;/p&gt; 
+  &lt;h5&gt;Изоляция инфраструктуры&lt;/h5&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Совместное использование железа вашей системы с какими бы то еще ни было приложениями очень опасно. Еще его называют принципом студенческой кухни (student kitchen), если кто-то что-то там делает, то это не может не повлиять на других людей, пользующихся теми же вещами. Самое неприятное, что данные случае очень сложно определить, если анализ проводить не сразу, а спустя определенное время. Примеров данной проблемы можно привести множество. Например, третье приложение начало активно использовать оперативную память — таким образов ваши процессы начали свопиться и производительно вашей системы жутко деградирует. Или третья система начала активно использовать жесткий диск, а вы пишите логи синхронно, в этом случае ваше приложение опять сильно замедлиться. Переполнение жесткого диска третьими системами и забивка канала связи — тоже возможные проблемы, правда они могут возникнуть и в случае когда железо используется только вашей системой, просто она состоит из большого количества процессов. Например, очень распространенный случай того как приложения написанные на java влияют друг на друга — это параллельный сборщик мусора. Когда в одном из компонентов он срабатывает, то по-умолчанию он использует все доступные CPU ресурсы на полную катушку, так что если у вас на этой же машине крутится приложение требующее быстрого отклика, то данная проблема не надумана. Хотя количество доступных потоков для сборки мусора всегда можно ограничить специальным флагов при запуске JVM.&lt;/p&gt; 
+  &lt;h4&gt;Мониторинг&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Увеличить отказоустойчивость вашей системы так же можно с помощью мониторинга. Очень часто узнав о приближающихся проблемах заранее, можно предпринять определенные действия, чтобы избежать их наступление. Например, увидев, что свободное место на диске заканчивает, можно быстренько зайти на бокс и почистить логи.&lt;/p&gt; 
+  &lt;p&gt;Для мониторинга существует множество готовых решений (Triton, Nagious), как платных так и open-source. Стандартные функции — это мониторинг диска, оперативной памяти, процессоров и трафика. Так же бывают различные плагины, которые позволяют мониторить лог файлы и при появлении там ошибок отсылать сообщение в систему мониторинга. &lt;/p&gt; 
+  &lt;p&gt;Не смотря на наличие готовых решений, банки почему-то разрабатывают свои собственные решения. Однако они уже больше заточены на получение сообщений посланных программно из внутренних приложений. Например, если по какой-то причине некая back-end система не смогла обработать ордер, то в описанную систему мониторинга можно отослать сообщения со всеми деталями ордера, чтобы support смог ввести детали ордера вручную.&lt;/p&gt; 
+  &lt;p&gt;Еще одна разновидность мониторинга — это health monitor, когда ваше приложение шлет специальные heartbeat, и если в течении определенного интервала времени от приложения ничего не было слышно, то в системе трекинга всплывает сообщение о неисправности.&lt;/p&gt; 
+  &lt;h4&gt;Problem Management&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Конечно же начинать думать об отказоустойчивости вашей системы надо как можно раньше, еще на стадии дизайна. Но доводить resilience вашей системы до идеала никогда не поздно. Очень важно исследовать каждую случившуюся проблему в вашей системы, находить истинную причину ошибок и делать так, чтобы в будущем она больше не вызывала проблем в вашей системе.&lt;/p&gt; 
+  &lt;h4&gt;В заключении&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Я рассказал о нескольких подходах в построении отказоустойчивых систем. Какой же выбрать вам? Я бы рекомендовал тот, который наиболее прозрачен и всех проще реализовать, при условии, что он все еще удовлетворяет минимальным требованиям отказоустойчивости вашей системы. &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 03:39:17 GMT</pubDate>
+            <author>javaspecialist</author>
+            <category>отказоустойчивость</category>
+            <category>fault tolerance</category>
+            <category>resilience</category>
+            <category>reliability</category>
+            <category>DR</category>
+        </item>
+        <item>
+            <title><![CDATA[Canvas / Пятнашки на LibCanvas]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/canvas/118567/</guid>
+            <link>http://habrahabr.ru/blogs/canvas/118567/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://habreffect.ru/files/dd0/1703a7c8e/fifteen.jpg" align="left" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;Недавно на Хабре была статья про &lt;/p&gt; 
+  &lt;a href="http://habrahabr.ru/blogs/html5/118356/"&gt;пятнашки на Canvas&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Отличная статья, уверен, новички найдут в ней много полезного. К сожалению, в комментариях высказались о немного завышеном потреблении процессора.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Это не от недостатка технологии, а от недостаточного опыта и удобных инструментов. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; В этом топике я расскажу, как, при помощи &lt;/p&gt; 
+  &lt;a href="http://habrahabr.ru/blogs/html5/118565/"&gt;LibCanvas&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, &lt;/p&gt; 
+  &lt;a href="http://libcanvas.github.com/games/fifteen/"&gt;сделать эту игру&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; совершенно нетребовательной к процессору и отлично выглядящей.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a name="habracut"&gt;&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; В игре по ссылке достаточно было исправить всего один нюанс — убрать ненужную перерисовку каждого кадра и вызывать её только при изменении холста.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Но мы пойдём дальше — введем анимацию передвижения фишек. Во время анимации при перерисовке всего холста мы будем иметь ту же проблему — неоправданно загруженный процессор, потому подумаем, что мы можем сделать.&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habreffect.ru/files/ff8/3ad8997b9/fifteen.png" /&gt;&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habreffect.ru/files/e82/88f18f35c/fifteen-move.png" /&gt;&lt;/p&gt; 
+  &lt;h2&gt;Dirty Rectangles&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Несложно заметить, что изображение меняется нечасто. Необходимо воспользоваться этим и, вместо того, чтобы перерисовывать весь холст — стираем при помощи clearRect старое месторасположение пятнашки и рисуем новое.&lt;/p&gt; 
+  &lt;p&gt;Нам достаточно зарисовать старую клетку и очистить новую (по сути, можно было бы постоянно сохранять предыдущее место отрисовки фишки, но это не так критично).&lt;/p&gt; 
+  &lt;pre&gt;&lt;code class="javascript"&gt;var Tile = atom.Class({
+	[...]
+	redraw: function () {
+		this.libcanvas.ctx
+			.clearRect( this.lastPositionRectangle )
+			.clearRect( this.field.emptyRectangle );
+		this.draw()
+	},
+	[...]
+})
+&lt;/code&gt;&lt;/pre&gt; 
+  &lt;p&gt;Итак, теперь у нас есть код перерисовки фишки. Допустим, раньше наше приложение перерисовывало каждый кадр. Код передвижения фишки выглядел приблизительно так:&lt;/p&gt; 
+  &lt;pre&gt;&lt;code class="javascript"&gt;var Tile = atom.Class({
+	[...]
+	move: function (point) {
+		// Блокируем поле, чтобы, пока не закончится передвижение, никто не двигал фишки
+		this.field.blocked = true;
+		this.animate({
+			time: 150,
+			props: { x: point.x, y: point.y },
+			onFinish: function () {
+				// Разблокируем поле
+				this.field.blocked = false;
+			},
+			fn: 'sine-out'
+		});
+	},
+	[...]
+})
+&lt;/code&gt;&lt;/pre&gt; 
+  &lt;p&gt;Мы отключаем автоматическую перерисовку каждого кадра и добавляем код, который заставляет каждую фишку перерисовывать себя при движении:&lt;br /&gt;&lt;/p&gt; 
+  &lt;pre&gt;&lt;code class="javascript"&gt;var Tile = atom.Class({
+	[...]
+	move: function (point) {
+		// Блокируем поле, чтобы, пока не закончится передвижение, никто не двигал фишки
+		this.field.blocked = true;
+		this.animate({
+			time: 150,
+			props: { x: point.x, y: point.y },
+			onProccess: this.redraw.bind(this),
+			onFinish: function () {
+				// Разблокируем поле
+				this.field.blocked = false;
+				this.redraw();
+			},
+			fn: 'sine-out'
+		});
+	},
+	[...]
+})
+&lt;/code&gt;&lt;/pre&gt; 
+  &lt;p&gt;Теперь каждый шаг будет вызываться перерисовка холста. Впринципе, этого вполне достаточно для вполне плавной анимации и практически свободного проца, но пойдём дальше.&lt;/p&gt; 
+  &lt;h2&gt;Буферизация&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Если проинспектировать приложение в консоли Javascript можно заметить, что самая значительная часть — это перерисовка холста, в которой вызываются такие тяжелые функции, как отрисовка градиента.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;img src="http://habreffect.ru/files/f1f/940d5b5b6/fifteen-before-buffer.png" /&gt; 
+  &lt;br /&gt; 
+  &lt;i&gt;Для своего приложения можно грубо считать, что (program) == 'Бездействие системы'&lt;/i&gt; 
+  &lt;p&gt;Исправим это досадное недоразумение предварительной отрисовкой фишки в буфер. Создадим новый скрытый холст, отрисуем фишку в него и далее будем отрисовывать сам холст вместо вызова кучи тяжелых функций. Я для этого использую плагин &lt;a href="https://github.com/theshock/atomjs/blob/master/Docs/Class/Mutators/Generators.md"&gt;atom.Class.Mutators.Generators&lt;/a&gt; — простой способ единожды сгенерировать объект и далее брать из кеша.&lt;br /&gt;Допустим, раньше у нас был следующий код, который отрисовывал фишку:&lt;br /&gt;&lt;/p&gt; 
+  &lt;pre&gt;&lt;code class="javascript"&gt;var Tile = atom.Class({
+	[...]
+	draw: function () {
+		this.callHardDrawFunctions( this.libcanvas.ctx );
+	}
+	[...]
+})
+&lt;/code&gt;&lt;/pre&gt; 
+  &lt;p&gt;Сменим его на следующий код:&lt;br /&gt;&lt;/p&gt; 
+  &lt;pre&gt;&lt;code class="javascript"&gt;var Tile = atom.Class({
+	[...]
+	Generators: {
+		buffer: function () {
+			var buffer = LibCanvas.buffer( this.shape, true );
+			this.callHardDrawFunctions( buffer.ctx );
+			return buffer;
+		}
+	},
+	draw: function () {
+		this.libcanvas.ctx.drawImage({
+			image: this.buffer,
+			draw : this.shape
+		});
+	}
+	[...]
+})
+&lt;/code&gt;&lt;/pre&gt; 
+  &lt;p&gt;Да, оно стало немного менее изящно, но, зато&amp;cedil; мы достигли цели, отрисовка наших пятнашек очень быстра и совершенно нетребовательна к ресурсам:&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habreffect.ru/files/f1f/940d5b5b6/fifteen-before-buffer.png" /&gt;&lt;br /&gt;&lt;i&gt;До введения буфера&lt;/i&gt;&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habreffect.ru/files/a87/62523808c/fifteen-after-buffer.png" /&gt;&lt;br /&gt;&lt;i&gt;После введения буфера&lt;/i&gt;&lt;/p&gt; 
+  &lt;h2&gt;Заключение&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Программируйте и &lt;/p&gt; 
+  &lt;a href="http://libcanvas.github.com/games/fifteen/"&gt;наслаждайтесь результатом&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;) &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 05:02:15 GMT</pubDate>
+            <author>TheShock</author>
+            <category>javascript</category>
+            <category>libcanvas</category>
+            <category>atomjs</category>
+            <category>fifteen</category>
+            <category>canvas</category>
+            <category>html5</category>
+            <category>game development</category>
+        </item>
+        <item>
+            <title><![CDATA[HTML5 / Новости LibCanvas]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/html5/118565/</guid>
+            <link>http://habrahabr.ru/blogs/html5/118565/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;img src="http://habreffect.ru/files/78e/8ce6665f4/libcanvas-logo.jpg" align="left" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;Где-то полгода назад я выкладывал несколько топиков про LibCanvas. Потом было затишье на Хабре, но не в репозитории. Работа активно продвигалась и библиотека обрела новые силы, возможности и базовую документацию.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a name="habracut"&gt;&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Топик будет относительно короткий. На самом деле это просто вступление для серии статей про LibCanvas.&lt;/p&gt; 
+  &lt;h2&gt;Отказ от MooTools&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Итак, основная новость — это отказ от MooTools и переход на &lt;/p&gt; 
+  &lt;a href="https://github.com/theshock/atomjs"&gt;AtomJS&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;. Это решение было принято по нескольким причинам:&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 1. Не использовать глобальное пространство, в частности $-функцию, которая часто конфликтует с jQuery&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 2. Отказ от поддержки IE &amp;lt; 9. LibCanvas использует самые передовые технологии и использовать фреймворк, который поддерживает браузер десятилетней давности — это тормозить свой прогресс. Также это позволяет значительно сохранить объем кода, т.к. не приходится реализовывать кучу встроенных методов, как forEach и indexOf&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 3. Свобода оптимизаций. Кое-какие участки можно было бы ускорить, но узкое место находится в базовом фреймворке.&lt;/p&gt; 
+  &lt;h2&gt;Переход на GitHub&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Изначально проект &lt;/p&gt; 
+  &lt;a href="http://code.google.com/p/libcanvas/"&gt;хостился на Google Code&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;. История коммитов и все разработки были &lt;/p&gt; 
+  &lt;a href="https://github.com/theshock/libcanvas"&gt;перемещены на GitHub&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;. Мне &lt;/p&gt; 
+  &lt;a href="http://bonch.habrahabr.ru/" class="user_link"&gt;Bonch&lt;/a&gt; 
+  &lt;a href="http://habrahabr.ru/blogs/html5/98567/#comment_3036578"&gt;дважды&lt;/a&gt; 
+  &lt;a href="http://habrahabr.ru/blogs/html5/101273/#comment_3137725"&gt;советовал&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; это и я рад, что он убедил меня. Просто открыл репозиторий я давно, но окончательно переехал туда значительно позже. Всем рекомендую.&lt;/p&gt; 
+  &lt;h2&gt;Документация&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Также, на GitHub теперь &lt;/p&gt; 
+  &lt;a href="https://github.com/theshock/libcanvas/tree/master/Docs/Ru"&gt;лежит документация на русском языке&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;. Конечно, она далеко не полностью покрывает все возможности библиотеки (% 25), но это лучше, чем ничего и она активно совершенствуется. Кто захочет помочь с переводом на английский — буду рад, но желательно поддерживать её в активном состоянии.&lt;/p&gt; 
+  &lt;h2&gt;Сборщик&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Теперь я использую тот же сборщик, который собирает MooTools. Спасибо &lt;/p&gt; 
+  &lt;a href="http://slik.habrahabr.ru/" class="user_link"&gt;slik&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, Packager &lt;/p&gt; 
+  &lt;a href="https://github.com/slik/packager"&gt;очень удобен&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;.&lt;/p&gt; 
+  &lt;h2&gt;Примеры&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Все примеры теперь лежат на &lt;/p&gt; 
+  &lt;a href="http://libcanvas.github.com/"&gt;libcanvas.github.com&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; и &lt;/p&gt; 
+  &lt;a href="https://github.com/libcanvas/libcanvas.github.com"&gt;исходники&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; приведены в максимально читабельный вид. Теперь каждый пример — небольшое руководство к действиям, в которое каждый может вложить свой вклад. В итоге я также восстановлю официальный сайт &lt;/p&gt; 
+  &lt;a href="http://libcanvas.com"&gt;libcanvas.com&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, но на данный момент GitHub полностью покрывает все потребности&lt;/p&gt; 
+  &lt;h2&gt;Планы на развитие&lt;/h2&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Недавно проекту исполнился год. Если я за год его не бросил, значит это серьезно) Принимаются фич-реквесты и баги.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Всех желающих приглашаю в Jabber-конференцию &lt;/p&gt; 
+  &lt;b&gt;libcanvas@conference.jabber.ru&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, с удовольствием буду консультировать и помогать. Буду рад что коммитерам, что просто пользователям.&lt;/p&gt; 
+  &lt;p&gt;Это только начало, ждите интересных статей и приложений.&lt;/p&gt; 
+  &lt;p&gt;&lt;span&gt;ps. Вступаем в блог &lt;a href="http://habrahabr.ru/blogs/canvas/"&gt;Canvas&lt;/a&gt;&lt;/span&gt; &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Tue, 03 May 2011 03:27:16 GMT</pubDate>
+            <author>TheShock</author>
+            <category>javascript</category>
+            <category>framework</category>
+            <category>canvas</category>
+            <category>html5</category>
+            <category>libcanvas</category>
+            <category>atomjs</category>
+        </item>
+        <item>
+            <title><![CDATA[Google / Google Global Cache — для избранных]]></title>
+            <guid isPermaLink="true">http://habrahabr.ru/blogs/google/93864/</guid>
+            <link>http://habrahabr.ru/blogs/google/93864/</link>
+            <description>&lt;div&gt;
+ &lt;div&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Одна из характеристик Google — предоставление качественный сервисов, бесплатно и с выгодой для себя.&lt;/p&gt; 
+  &lt;p&gt;&lt;img align="right" src="http://habrastorage.org/storage/6294b0c8/c4a806ee/3a722a46/b916da14.gif" /&gt;&lt;b&gt;Google Global Cache (GGC)&lt;/b&gt; — одно из решений по оптимизации &lt;a href="http://asert.arbornetworks.com/2010/03/how-big-is-google/"&gt;огромных объемов&lt;/a&gt; своего трафика на базе платформы &lt;a href="http://ru.wikipedia.org/wiki/Content_Delivery_Network"&gt;CDN&lt;/a&gt;, да еще и с пользой для пользователей (читай провайдеров).&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Но что же все-таки это такое?&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Взрыв широкополосного доступа и богатый мультимедийный контент постоянно увеличивает спрос от провайдеров Интернета (ISP). GGC позволяет предоставлять Google контент, в первую очередь видео, из собственной сети (провайдера). Это облегчает нагрузки на сеть и снижает затраты на транзитные линки, тем самым экономя деньги провайдеров, в то же время повышая уровень обслуживания пользователей.&lt;/p&gt; 
+  &lt;br /&gt; 
+  &lt;a name="habracut"&gt;&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Проект GGC находятся на стадии бета, поэтому соглашение с провайдером является коммерческой тайной, и запрещено использовать упоминания об этой услуги в своих целях.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Обзор системы&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Без GGC, каждый запрос пользователя из сети провайдера на видео YouTube, Google Apps, etc. создает транзит этого экземпляра видео по сети, от Google к пользователю. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; С GGC, только первая копия видео проходит транзит по всей сети. Если другой пользователь запрашивает то же видео, Google обслуживает его из узла GGC.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Особенности GGC&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — &lt;/p&gt; 
+  &lt;b&gt;сокращение трафика через сети&lt;/b&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;: процент запросов через cache варьирует в зависимости от схемы использования пользователей, но типичная производительность близка к 75%,&lt;/p&gt; 
+  &lt;p&gt;— &lt;b&gt;быстрый ответ, прозрачный для пользователей&lt;/b&gt;: Google прозрачно обслуживает пользователей запросы из кэша внутри сети,&lt;/p&gt; 
+  &lt;p&gt;— &lt;b&gt; простота установки&lt;/b&gt;: для установки требуется rack (шкаф), ноутбук, копия CD от Google, а также подключение к Интернету. После того как сервера были настроены и доступны из сети, Google будет делать всю остальную работу и мониторить удаленно,&lt;/p&gt; 
+  &lt;p&gt;— &lt;b&gt;надежность&lt;/b&gt;: узел имеет несколько уровней избыточности. Если узел GGC недоступен по любой причине, запросы пользователей будут отправлены прозрачно для Google.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Как GGC работает&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Когда пользователь запрашивает части содержания — например, видео, веб-страницы или изображения — системы Google определяют, если этот ресурс может быть предоставлен из узла GGC внутри сети, и если пользователь имеет право доступа к узлу GGC. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Если узел GGC уже имеет закэшированую версию запрашиваемого контента в своем локальном кэше, он будет предоставлять контент непосредственно конечному потребителю, улучшая работу пользователей и экономя деньги за Интернет транзит.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Если содержимое не хранится на узле GGC, узел скачивает их из Google, предоставляет его пользователю, и хранит его для будущих запросов.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Диаграмма запросов&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;br /&gt; 
+  &lt;img src="http://habrastorage.org/storage/c5ed5716/8768d052/bcee68b5/52a1e641.jpg" /&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 1. Пользователь запрашивает по ссылке видео или другой контент размещенный на Google. Компьютер генерирует запрос DNS для адреса хоста.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 2. DNS провайдера запрашивает DNS Google на адрес IP хоста с содержанием. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 3. DNS Google знает, что у вас есть GGC, так что ответы содержат IP адреса GGC узла провайдера. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Это известно, потому что провайдер анонсировал IP адреса DNS резолвера узлу GGC (через BGP) и Google обновил информацию в свой DNS.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 4. DNS провайдера отвечает IP-адрес GGC узла пользователю. &lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 5. Компьютер пользователя отправляет запрос на IP адрес который маршрутизируется на GGC узел.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 6. Узел подтверждает, что пользователь имеет доступ к этому узлу (делается путем сопоставления IP-адресa пользователя в список блоков IP анонсированных через узел BGP.) Если адрес не является в списке, пользователь перенаправляется на кэш в сети Google.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 7. Если контент не содержится на узле GGC, узел запрашивает контент из Google и кэширует его.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; 8. После того как узел GGC содержит контент, отдает его пользователю. Контент содержится на узле, так что следующий запрос может быть отдан без запроса к Google.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Предоставляемое оборудование от Google&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Google предоставляет необходимое оборудование, провайдер должен обеспечить размещение с своем помещении, питание от электросети и подключение к Интернету.&lt;/p&gt; 
+  &lt;p&gt;GGC работает на стоечных серверах (rack mountable), по 3-8 в каждом кластере.&lt;/p&gt; 
+  &lt;p&gt;&lt;b&gt;Характеристики серверов&lt;/b&gt;&lt;br /&gt;• 2 RU Rack-mountable chassis &lt;br /&gt;• 74см Д x 44см Щ x 8.64см В&lt;br /&gt;• Вес: 28 КГ &lt;br /&gt;• Блок питания: 2x 110/220 VAC.&lt;br /&gt;• 4 x 1000Base-T copper Gigabit Ethernet&lt;br /&gt;• IP адресация: выделенная подсеть (один широковещательный домен).&lt;/p&gt; 
+  &lt;p&gt;&lt;img src="http://habrastorage.org/storage/456d9227/b5bae172/0cb6baa7/4518c6a3.jpg" /&gt;&lt;/p&gt; 
+  &lt;p&gt;Возможные конфигурации:&lt;br /&gt;3 сервера — 6RU 1200W&lt;br /&gt;4 сервера — 8RU 1600W&lt;br /&gt;6 сервера — 12RU 2400W&lt;br /&gt;8 сервера — 16RU 3200W&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Администрирование&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Используется сайт &lt;/p&gt; 
+  &lt;a href="http://ggcadmin.google.com"&gt;ggcadmin.google.com&lt;/a&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt;, для конфигурации узла и информации о доставке. Первоначальный пользователь получает доступ к порталу от группы GGC.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; После принятия бета-соглашения, пользователь может пригласить дополнительных пользователей.&lt;/p&gt; 
+  &lt;h4&gt;&lt;span&gt;&lt;strong&gt;Остальные детали&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — Google сохраняет право собственности на оборудование и программное обеспечение, из которого составлен узел. Google будет отвечать за техническое обслуживание, поддержку и транспортные расходы, связанные с серверным оборудованием,&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — По уверениям Google, конфиденциальность пользователей имеет первостепенное значение.&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; Личная информация (Personally Identifiable Information) или частный контет пользователей не сохраняется на узле GGC,&lt;/p&gt; 
+  &lt;p style="display:inline" class=" readability-styled"&gt; — Google сохраняет право требовать от провайдеров заверений о неразглашении использования услуги, так как проект находится в стадии бета.&lt;/p&gt; 
+  &lt;p&gt;&lt;b&gt;Почему для избранных спросите вы?&lt;/b&gt;&lt;br /&gt;Дело в том что Google обычно предлагает сам такие услуги только тем провайдерам, которые присутствуют в крупнейших &lt;a href="http://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%BC"&gt;точках обмена трафиком&lt;/a&gt; и если трафик на ресурсоемкие услуги Google (youtube, maps) составляют значительный процент от трафика (&amp;gt;70%).&lt;/p&gt; 
+  &lt;p&gt;Ссылки по теме:&lt;br /&gt;&lt;a href="http://www.peeringdb.com/view.php?asn=15169"&gt;Google @ Peering DB&lt;/a&gt;&lt;br /&gt;&lt;a href="http://habrahabr.ru/blogs/google/47047/"&gt;Региональное кеширование от Google и реакция на него СМИ&lt;/a&gt;&lt;br /&gt;&lt;a href="http://www.administrating.ru/google-global-cache-ggc-keshiruyushhie-servera-google/"&gt;Вот пример&lt;/a&gt;&lt;br /&gt;&lt;img src="http://c.statcounter.com/6847726/0/d624e724/1/" alt="blogger analytics" /&gt; &lt;/p&gt; 
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+            <pubDate>Mon, 02 May 2011 21:16:54 GMT</pubDate>
+            <author>prox</author>
+            <category>google</category>
+            <category>cache</category>
+            <category>global</category>
+            <category>services</category>
+            <category>youtube</category>
+        </item>
+    </channel>
+</rss>
